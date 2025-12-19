@@ -1,0 +1,14 @@
+com/agendamento/unhas/agendamento/api/repository/UsuarioRepository.class
+com/agendamento/unhas/agendamento/api/dto/AgendamentoRequestDTO.class
+com/agendamento/unhas/agendamento/api/repository/AgendamentoRepository.class
+com/agendamento/unhas/agendamento/api/controller/AgendamentoController.class
+com/agendamento/unhas/agendamento/api/controller/UsuarioController.class
+com/agendamento/unhas/agendamento/api/model/Usuario.class
+com/agendamento/unhas/agendamento/api/repository/ServicoRepository.class
+com/agendamento/unhas/agendamento/api/model/Servico.class
+com/agendamento/unhas/agendamento/api/Application.class
+com/agendamento/unhas/agendamento/api/repository/BloqueioRepository.class
+com/agendamento/unhas/agendamento/api/model/Bloqueio.class
+com/agendamento/unhas/agendamento/api/controller/BloqueioController.class
+com/agendamento/unhas/agendamento/api/controller/ServicoController.class
+com/agendamento/unhas/agendamento/api/model/Agendamento.class
